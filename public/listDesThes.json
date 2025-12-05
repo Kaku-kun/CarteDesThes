@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "name": "Thé du Hammam",
+    "type": "Vert",
+    "origin": "Turque",
+    "temperature": 75,
+    "time": "3 min",
+    "notes": "Recette turque à base de thé vert, datte verte, fleur d’oranger, rose et fruits rouges"
+  },
+  {
+    "id": 2,
+    "name": "Le sans nom",
+    "type": "Vert",
+    "origin": "Français",
+    "temperature": 75,
+    "time": "4 min",
+    "notes": "Thé vert, agrumes, gingembre et épices, qui met de bonne humeur"
+  },
+  {
+    "id": 3,
+    "name": "Perles de Jasmin",
+    "type": "Vert",
+    "origin": "Chine",
+    "temperature": 75,
+    "time": "5 min",
+    "notes": "Thé Grand cru artisanal. La douceur du thé vert et la subtilité du jasmin pour un thé d'exception aux notes florales opulantes et fraîches"
+  },
+  {
+    "id": 4,
+    "name": "Touareg",
+    "type": "Vert",
+    "origin": "Maghreb",
+    "temperature": 90,
+    "time": "4 min",
+    "notes": "Recette Maghrébine à base de Thé vert, feuilles de menthes douce et poivrée, arôme naturel de menthe"
+  },
+  {
+    "id": 5,
+    "name": "Thé des Lords",
+    "type": "Noir",
+    "origin": "Anglais",
+    "temperature": 95,
+    "time": "5 min",
+    "notes": "Recette anglaise à base d’Earl grey très bergamoté et pétales de carthame"
+  },
+  {
+    "id": 6,
+    "name": "Big Ben",
+    "type": "Noir",
+    "origin": "Anglais",
+    "temperature": 90,
+    "time": "4 min",
+    "notes": "Le classique Breakfast tea, mélange d’Assam et de Yunnan, doux et tonique, rond et épicé"
+  },
+  {
+    "id": 7,
+    "name": "Grand Yunnan Impérial",
+    "type": "Noir",
+    "origin": "Chinois",
+    "temperature": 90,
+    "time": "4 min",
+    "notes": "Origine chinoise ; surnommé “thé des chirurgiens” car réveille sans énerver"
+  },
+  {
+    "id": 8,
+    "name": "Grand gout Russe",
+    "type": "Noir",
+    "origin": "Russe",
+    "temperature": 90,
+    "time": "5 min",
+    "notes": "Mélange de thés de chines aux huiles essentielles d’agrumes"
+  },
+  {
+    "id": 9,
+    "name": "Ceylan Pure Pekoe",
+    "type": "Noir",
+    "origin": "Sri Lankais",
+    "temperature": 90,
+    "time": "5 min",
+    "notes": "Thé noir en provenance du Sri Lanka. Le pure pékoe correspond aux feuilles entières, triées pour un goût plus tendre et délicat en gardant ce fond d’amertume des ceylans"
+  },
+  {
+    "id": 10,
+    "name": "Thé des Moines",
+    "type": "Vert" ,
+    "type2": "Noir" ,
+    "origin": "Tibétain",
+    "temperature": 90,
+    "time": "4 min",
+    "notes": "Mélange de thés verts et noirs au parfum floral inspiré d’une recette élaborée dans un monastère tibétain"
+  },
+  {
+    "id": 11,
+    "name": "Genmaicha",
+    "type": "Vert",
+    "type2": "Original" ,
+    "origin": "Japonais",
+    "temperature": 75,
+    "time": "3 min",
+    "notes": "Recette japonaise à base de Thé vert, riz brun grillé et maïs"
+  },
+  {
+    "id": 12,
+    "name": "Sakura Souchong fumé",
+    "type": "Noir",
+    "type2": "Original" ,
+    "origin": "Japonais",
+    "temperature": 90,
+    "time": "4 min",
+    "notes": "Thé noir d’origine Japonaise de la région de Shizuoka aux belles feuilles sombres torsadées, subtilement fumé au bois de cerisier de la région de Nara."
+  },
+  {
+    "id": 13,
+    "name": "Rooibos Jardin bleu",
+    "type": "Original",
+    "origin": "Africain",
+    "temperature": 90,
+    "time": "5 min",
+    "notes": "Extrait d’un arbuste d’Afrique du Sud, arômes de rhubarbe, fraise des bois et fraise, pétales de fleurs"
+  },
+  {
+    "id": 14,
+    "name": "Cacao",
+    "type": "Original",
+    "origin": "Africain",
+    "temperature": 100,
+    "time": "6 min",
+    "notes": "Préparation au grué de Cacao. L’éclat de fève de cacao est torréfié puis concassé"
+  },
+  {
+    "id": 15,
+    "name": "Té plaza de españa",
+    "type": "Vert",
+    "origin": "Espagnol",
+    "temperature": 75,
+    "time": "5 min",
+    "notes": "Thé vert semi fermenté à base de Oolong 90%, de bleuets et d'écorses d'orange cueillies sur les orangers de Séville"
+    },
+    {
+    "id": 16,
+    "name": "té blanco y verde Andalucía",
+    "type": "Vert",
+    "type2": "Blanc",
+    "origin": "Espagnol",
+    "temperature": 75,
+    "time": "5 min",
+    "notes": "Thé vert Sancha et Blanc Pai Mu Tan, copeaux de mangue, copeaux de ???, fleurs de soucis et écorses d'orange cueillies sur les orangers de Séville"
+    }
+]

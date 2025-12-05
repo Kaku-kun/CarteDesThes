@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #576E2A;
+
+}
+
+.body {
+    margin: 15px auto;
+    background-color: white;
+    width: 90%;
+    max-width: 900px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+h1 {
+    text-align: center;
+    color: #576E2A;
+    font-family: Pinyon Script, cursive;
+    font-weight: bold;
+    font-size: 5em;
+}
+
+h2 {
+    color: #576E2A;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button{
+    padding: 5px;
+    margin: 10px 5px 0 5px;
+    background-color: #576E2A;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    box-shadow: 2px 2px 5px #2F4F4F;
+}
+button:hover {
+    box-shadow: 5px 5px 8px #2F4F4F;
+    transform: translate(-2px, -2px);
+    cursor: pointer;
+}
+button:active {
+    box-shadow: none;
+    transform: translate(2px, 2px);
+}
+
+.filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.props {
+    font-weight: bold;
+    color: #576E2A;
+}   
