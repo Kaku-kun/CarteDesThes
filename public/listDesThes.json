@@ -146,5 +146,16 @@
     "temperature": 75,
     "time": "5 min",
     "notes": "Thé vert Sancha et Blanc Pai Mu Tan, copeaux de mangue, copeaux de ???, fleurs de soucis et écorses d'orange cueillies sur les orangers de Séville"
+    },
+        {
+    "id": 17,
+    "name": "Thé au litchi",
+    "type": "Original",
+    "type2": "Noir",
+    "origin": "Indien",
+    "temperature": 75,
+    "time": "2-3 min",
+    "notes": "Un mélange oriental de feuilles de thé cultivées en altitude, de fruits de litchi séchés et d’extrait naturel de litchi. Légère couleur ambrée et un goût doux de thé noir."
     }
+
 ]
