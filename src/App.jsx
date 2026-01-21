@@ -21,7 +21,7 @@ export default function App() {
   const filteredThes = filter === "All" 
   ? lesThes 
   : lesThes.filter((the) => 
-    the.type === filter || the.type2 === filter
+    the.type === filter || the.type2 === filter || the.origin === filter
 );
     
   return (
@@ -33,7 +33,8 @@ export default function App() {
 
       <Filters setFilter={setFilter} />
 
-      <ListeDesThes thes={filteredThes} />
+      <ListeDesThes thes={filteredThes}
+  setFilter={setFilter} />
       
       </div>
     </div>

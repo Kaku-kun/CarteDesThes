@@ -64,3 +64,10 @@ button:active {
     font-weight: bold;
     color: #576E2A;
 }   
+
+.clickable {
+  cursor: pointer;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
